@@ -1,0 +1,33 @@
+p {  /* p hee is called selector*/
+    /*inside it color is declarations*/
+    color: orangered; 
+    
+    /* this is the skin we are giving to vbones of paragraph */
+}
+body{
+    background-color:purple;
+}
+div{
+    background-color: aquamarine;
+}
+#cssexample{
+    color: blueviolet;
+}
+
+/* .orange{
+    color: orangered;
+    text-align: center;
+} */
+/* if we want specific class of css to be change then like we want h3 to change but not h4*/
+h3.orange{
+    color: orangered;
+    text-align: center;
+}
+
+h1,h2,p{
+    color:red;
+    text-align: center;
+}
+/* Multi
+line
+Comment*/

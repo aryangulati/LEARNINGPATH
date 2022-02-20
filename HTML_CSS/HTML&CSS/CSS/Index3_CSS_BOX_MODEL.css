@@ -1,0 +1,23 @@
+#div-one{
+    background-color: black;
+    /* height:100px; */
+    color:#ffffff;
+    padding:100px 100px 100px 0px ;
+    /*Padding : Top Right Bottom Left */
+    border-style: solid;
+    border-width: 50px;
+    border-color: red;
+    margin:200px;
+}
+
+#div-two{
+    background-color: red;
+    height:50px
+
+}
+
+#div-three{
+    background-color: blue;
+    height:100px
+
+}

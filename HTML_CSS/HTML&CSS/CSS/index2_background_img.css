@@ -1,0 +1,13 @@
+body{
+    /* background-image: url("/images/new123.jpg"); */
+    /* Smaller images are just broadcasted in x and y directions  */
+    /* background-image: url("/images/download1.gif");
+    background-image: url("/images/download1.jpg"); */
+    /* background-repeat: no-repeat;  */
+    /* we can also do only repart in x or y axis */
+
+
+    /* TO SUM UP ALL THE ABOVE QUICKLY WE CAN USE  */
+    background: greenyellow url("/images/download.jpg") no-repeat; 
+
+}
