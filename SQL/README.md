@@ -12,6 +12,10 @@ Select column_name from tableA Where Column_name in (Select column_nmae from tab
 
 ---
 
+<b> HAVING CLAUSE</b> <br>
+select tableA.column_name,tableB.column_name from tableA, table B where ___ = ___
+group by ___
+Having count(_);--what else we have to do for further grouping
 
 ---
 <b> Concating 2 Columns </b> <br>
@@ -76,8 +80,5 @@ Select column_names, , ,  from table_name Where month(column_names)= 2 [month if
 
 ---
 
-<b> </b> <br>
-
----
 
 
