@@ -5,6 +5,12 @@ Select __ tableA.column_name from tableA INNER JOIN tableB ON __ = __
 
 Select column_name ,column_name_from_othertable from TableA INNER JOIN tableB ON __ = __ WhereClause Order By;
 
+---
+
+<b>SUB Queries </b> <br>
+Select column_name from tableA Where Column_name in (Select column_nmae from tableB );
+
+---
 
 
 ---
@@ -67,6 +73,10 @@ CREATE TABLE table_name(column_name datatype PRIMARY KEY, , , )
 
 <b>How to find Month , Year</b> <br>
 Select column_names, , ,  from table_name Where month(column_names)= 2 [month if feb] , year(column_names) = 2018 [year]
+
+---
+
+<b> </b> <br>
 
 ---
 
