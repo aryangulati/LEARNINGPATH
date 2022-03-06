@@ -51,6 +51,16 @@ Select column_names, , , from table_name Where column_names in ("row_value",row_
 
 <b>LIKE Operator</b> <br>
 
+| LIKE Operator |	Description |
+|-------------|-----------------------------|                
+WHERE CustomerName LIKE 'a%'	|Finds any values that start with "a"
+WHERE CustomerName LIKE '%a'	|Finds any values that end with "a"
+WHERE CustomerName LIKE '%or%'	|Finds any values that have "or" in any position
+WHERE CustomerName LIKE '_r%'|	Finds any values that have "r" in the second position
+WHERE CustomerName LIKE 'a_%'	|Finds any values that start with "a" and are at least 2 characters in length
+WHERE CustomerName LIKE 'a__%'	|Finds any values that start with "a" and are at least 3 characters in length
+WHERE ContactName LIKE 'a%o'	|Finds any values that start with "a" and ends with "o"
+
 ---
 
 <b>Update records</b> <br>
@@ -76,11 +86,11 @@ CREATE TABLE table_name(column_name datatype PRIMARY KEY, , , )
 ---
 
 <b>How to find Month , Year</b> <br>
-<b>1.) </b>
 Select column_names, , ,  from table_name Where month(column_names)= 2 [month if feb] , year(column_names) = 2018 [year]
 
 ---
 <b>Some Miscellaneous</b> <br>
+<b>1.) </b>
 Write a query to display the list of bus numbers and names where the source and destination of a bus is the destination and source of another bus. Display the unique records in ascending order by bus_no.
 
 (HINT: Use Schedule table to retrieve records. Data is case sensitive)
