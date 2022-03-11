@@ -1,0 +1,14 @@
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.exe.config
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.exe
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.pdb
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.csprojAssemblyReference.cache
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.exe
+C:\Users\ARYAN GULATI\source\repos\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.pdb
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.exe.config
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.exe
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\bin\Debug\MyFirstCsharpProject.pdb
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.csprojAssemblyReference.cache
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.exe
+C:\Users\ARYAN GULATI\Desktop\LEARNINGPATH\C#\CsharpProjects\MyFirstCsharpProject\obj\Debug\MyFirstCsharpProject.pdb

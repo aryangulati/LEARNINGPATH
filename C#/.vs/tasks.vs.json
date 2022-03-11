@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-MyFirstCsharpProject",
+      "appliesTo": "CsharpProjects/MyFirstCsharpProject/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-MyFirstCsharpProject",
+      "appliesTo": "CsharpProjects/MyFirstCsharpProject/",
+      "type": "launch"
+    }
+  ]
+}
